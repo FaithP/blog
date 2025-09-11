@@ -1,0 +1,51 @@
+[200~# Site settings
+title: Faith Peterson
+email: faith@faithpeterson.me
+description: >- # this means to ignore newlines until "baseurl:"
+  Personal blog covering consulting, leadership, and technology insights.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://blog.faithpeterson.me" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:year/:month/:day/:title/
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-gist
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+  - jemoji
+
+# Pagination
+paginate: 5
+paginate_path: "/page:num/"
+
+# SEO settings
+author: Faith Peterson
+twitter:
+  username: # your twitter handle if you have one
+social:
+  name: Faith Peterson
+  links:
+    - https://github.com/FaithP
+    - https://faithpeterson.me
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md~
