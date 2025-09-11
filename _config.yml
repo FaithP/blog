@@ -1,5 +1,6 @@
 # Site settings
 title: Faith Peterson
+theme: minima
 email: faith@faithpeterson.me
 description: >- # this means to ignore newlines until "baseurl:"
   Personal blog covering consulting, leadership, and technology insights.
