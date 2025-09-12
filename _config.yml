@@ -26,6 +26,9 @@ plugins:
   - jekyll-titles-from-headings
   - jemoji
 
+# Supplemental Settings
+excerpt_separator: "<!--more-->"
+
 # Pagination
 paginate: 5
 paginate_path: "/page:num/"
@@ -50,3 +53,4 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - README.md~
+
