@@ -19,14 +19,16 @@ body {
     background: linear-gradient(to bottom, #fffbeb, #ffffff);
 }
 
-/* Site title styling */
-.site-title {
+/* More specific site title styling */
+.site-header .site-title,
+.site-header .site-title:visited,
+.site-header .site-title:link {
     color: #d97706 !important;
     font-weight: 700;
     font-size: 2.25rem;
     text-decoration: none !important;
-    
-    &:hover {
-        color: #b45509 !important;
-    }
+}
+
+.site-header .site-title:hover {
+    color: #b45509 !important;
 }
