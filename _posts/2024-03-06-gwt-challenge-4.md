@@ -15,9 +15,7 @@ date: 2024-03-06
 2. How should features, scenarios, and their descriptions evolve over time as new personas and needs surface?
 3. How to write a good description for a feature or scenario? …. How to structure those descriptions? Should they look like user stories or something else? What should they contain?
 
-By the time I had read to the end I knew I wanted first to explore the generic/vague anti-pattern, define “reports,” discuss finding the right problem to solve, and explore how to link solution ideas to a person's needs. Only after I fully understanding these problems and questions would I be ready to offer  thoughts on the challenge’s central theme of descriptions (which is in [Part 2 here](https://www.linkedin.com/pulse/given-when-then-challenge-4-part-2feature-scenario-faith-peterson)).
-
-<!--more-->
+By the time I had read to the end I knew I wanted first to explore the generic/vague anti-pattern, define “reports,” discuss finding the right problem to solve, and explore how to link solution ideas to a person's needs. Only after I fully understanding these problems and questions would I be ready to offer  thoughts on the challenge’s central theme of descriptions (which is in [Part 2 here](https://www.linkedin.com/pulse/given-when-then-challenge-4-part-2feature-scenario-faith-peterson)).<!--more-->
 
 # Recap the Challenge
 Let's start with an short outline of how [the challenge](https://specflow.org/2020/should-the-feature-description-look-like-a-user-story-givenwhenthenwithstyle/) was presented:
