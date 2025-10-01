@@ -1,7 +1,7 @@
 --- 
 layout: post 
 title: "Why I turned our daily standups inside-out" 
-date: 2024-08-31
+date: 2025-08-31
 ---
 
 When I started working with a team that kept missing sprint commitments, my first action was to drop the traditional static 3-question daily standup. Instead, we began a daily practice of recalibrating our plan-to-completion relative to the sprint goal.<!--more-->
