@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Faith Peterson's Blog
+
 ---
 
 
