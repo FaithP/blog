@@ -34,20 +34,22 @@ layout: default
 <!-- Pagination links -->
 {%- if paginator.total_pages > 1 -%}
 <div class="pagination">
-  {%- if paginator.previous_page -%}
-    <a href="{{ paginator.previous_page_path | relative_url }}" class="pagination-link">← Newer</a>
+
+  {%- if paginator.next_page -%}
+    <a href="{{ paginator.next_page_path | relative_url }}" class="pagination-link">← Older</a>
   {%- endif -%}
+</div>
+{%- endif -%}
+
   
   <span class="pagination-pages">
     Page {{ paginator.page }} of {{ paginator.total_pages }}
   </span>
   
-  {%- if paginator.next_page -%}
-    <a href="{{ paginator.next_page_path | relative_url }}" class="pagination-link">Older →</a>
-  {%- endif -%}
-</div>
-{%- endif -%}
 
+  {%- if paginator.previous_page -%}
+    <a href="{{ paginator.previous_page_path | relative_url }}" class="pagination-link">Newer →</a>
+  {%- endif -%}
 
 
 
