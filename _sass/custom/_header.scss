@@ -21,3 +21,27 @@
     color: $text-color;
 }
 
+/* Blog post title links */
+.post-link {
+    color: $text-color;
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.post-link:hover {
+    color: $brand-color;
+}
+
+.post-link:focus {
+    color: $brand-color;
+    outline: 2px solid $brand-color;
+    outline-offset: 2px;
+}
+
+.post-link:active {
+    color: $brand-color-hover;
+}
+
+.post-link:visited {
+    color: $visited-link-color;
+}
