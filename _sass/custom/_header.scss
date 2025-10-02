@@ -16,6 +16,8 @@
 .site-header .site-title,
 .site-header .site-title:visited,
 .site-header .site-title:link {
+    display: inline-block;
+    vertical-align: middle;
     font-family: 'Alan Sans', 'Inter', sans-serif;
     color: $brand-color !important;
     font-weight: 700;
