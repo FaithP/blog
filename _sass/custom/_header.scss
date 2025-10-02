@@ -45,3 +45,15 @@
 .post-link:visited {
     color: $visited-link-color;
 }
+
+/* Read more link styling */
+.read-more {
+    color: $brand-color;
+    text-decoration: none;
+    font-weight: 500;
+    
+    &:hover {
+        color: $brand-color-hover;
+        text-decoration: underline;
+    }
+}
