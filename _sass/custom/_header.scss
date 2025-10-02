@@ -1,3 +1,17 @@
+/* Link back to main site */
+.home-icon {
+    color: $brand-color;
+    font-size: 0.9rem;  // or try 1rem
+    margin-right: 1rem;
+    transition: color 0.2s ease;
+    
+    &:hover {
+        color: $brand-color-hover;
+    }
+}
+
+
+
 /* Site title styling */
 .site-header .site-title,
 .site-header .site-title:visited,
