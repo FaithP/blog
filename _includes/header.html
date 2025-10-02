@@ -3,7 +3,8 @@
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <a href="https://www.faithpeterson.me" class="home-icon" title="Return to main site"><i class="fa-solid fa-house"></i></a>
+    <a href="https://www.faithpeterson.me" class="home-icon" title="Home"><i class="fa-solid fa-house"></i></a>
+    <br/>
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
     {%- if page_paths -%}
