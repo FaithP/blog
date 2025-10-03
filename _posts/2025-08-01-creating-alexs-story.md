@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Creating: Alex's Story
+title: "Creating: Alex's Story"
 date: 2025-08-01
 ---
 

@@ -1,4 +1,4 @@
-[200~source "https://rubygems.org"
+source "https://rubygems.org"
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 # This is the default theme for new Jekyll sites
