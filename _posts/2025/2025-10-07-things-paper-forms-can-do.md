@@ -4,7 +4,7 @@ title: "Things Paper Forms Can Do (that digital forms can't)"
 date: 2025-10-07 16:00:00
 ---
 
-Can't without some awareness and intent, that is. Forms seem on the surface like simply a way to collect information - a way that's easier than alternatives for the person collecting the information. However forms are a user interface to an organization. And paper forms offer some important affordances that digital forms might not, in all cases, offer.
+Can't without some awareness and intent, that is. Forms seem on the surface like simply a way to collect information - a way that's easier than alternatives for the person collecting the information. However forms are a user interface to an organization. And paper forms offer some important affordances that digital forms might not, in all cases, offer.<!--more-->
 
 When we use paper forms:
 
