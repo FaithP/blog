@@ -2,6 +2,7 @@
 layout: post
 title: "Things Paper Forms Can Do (that digital forms can't)"
 date: 2025-10-07 16:00:00
+---
 
 # Things Paper Forms Can Do (that digital forms can't)
 
